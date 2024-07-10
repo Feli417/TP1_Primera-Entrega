@@ -1,0 +1,5 @@
+ROOT=.
+TARGET=NUCLEO_L476RG
+TARGET_CODE=0765
+DEVICE_ID[/home/studio/workspace/pruebapote]=066DFF555185754867152439
+DEVICE_TYPE[/home/studio/workspace/pruebapote]=connected
